@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703361873056",
+    "firebase_url": "https://myrecipes-d1c07.firebaseio.com",
+    "project_id": "myrecipes-d1c07",
+    "storage_bucket": "myrecipes-d1c07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703361873056:android:6dd317a9bb29df00da05c5",
+        "android_client_info": {
+          "package_name": "com.flavium.myrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703361873056-8dj8eruoto7f8hdsjousmhkc6f5e1pao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtg5oVpH16cuhyWDOj1qUyP7hN3ByKQws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703361873056-8dj8eruoto7f8hdsjousmhkc6f5e1pao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

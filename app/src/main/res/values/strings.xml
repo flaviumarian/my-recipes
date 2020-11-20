@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyRecipes</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login_create_account">Login/Create account</string>
+    <string name="my_cookbook">My Cookbook</string>
+    <string name="add_new_recipe">Add a new recipe</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="number_of_people">Number of people: </string>
+    <string name="duration">Duration: </string>
+    <string name="h">h</string>
+    <string name="m">m</string>
+    <string name="edit_recipe">Edit recipe</string>
+    <string name="are_you_sure">Are you sure you want to remove recipe?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="remove_current_picture">Remove current picture</string>
+    <string name="remove_recipe">REMOVE RECIPE</string>
+    <string name="add_picture">ADD PICTURE</string>
+    <string name="add_picture_regular">Add Picture</string>
+    <string name="log_out_message">Are you sure you want to log out?</string>
+    <string name="search_for">Search for name, ingredient or description</string>
+    <string name="change_picture">Change Picture</string>
+    <string name="informative_text">No recipes yet.\n\nAdd some using the PLUS button at the bottom</string>
+
+
+</resources>
